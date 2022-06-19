@@ -10,7 +10,7 @@ Statistics
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmsbf&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={carlosmsbf}&theme=vue"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue"/>
   </div>
 
 
@@ -35,8 +35,6 @@ FrameWorks
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/node-original.svg">
-  <img align="center" alt="Carlos-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/angular-original-wordmark.svg" />
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Carlos-DotNet" height="30" width="40"height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
     </div>
