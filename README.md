@@ -4,6 +4,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmsbf&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+    
+  <h1>
+    <br>
+    Projects
+   <a href="www.uol.com.br"> <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+    
+  </h1>
+  
+  
 <div style="display: inline_block;" align="center"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -14,14 +23,10 @@
   <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  <br/><br/>
-  <h1>
+  <br/>
+   
+  <h1 align="center>
     <br>
-  </h1>
-
-<br>
-  
-  <h1 align="center" style="color:black;">
   Contact
   <div align="center"> 
   <a href = "mailto:carlosmsbf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
