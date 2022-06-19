@@ -24,13 +24,13 @@
 </div>
   
   <br/>
-   
-  <h1 align="center>
-    <br>
-    <br/>
-  Contact
+   <h1>
+     <br>
+     Contact
+  </h1>
+  
   <div align="center"> 
   <a href = "mailto:carlosmsbf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-barros-6a63901a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
-  </h1>
+
