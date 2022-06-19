@@ -24,7 +24,8 @@
 </div>
   
   <br/>
-   <h1>
+
+   <h1 align="center">
      <br>
      Contact
   </h1>
