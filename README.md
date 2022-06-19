@@ -9,6 +9,9 @@ Statistics
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosmsbf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmsbf&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={carlosmsbf}&theme=vue"/>
+  </div>
 
 
   
@@ -36,17 +39,17 @@ FrameWorks
   <img align="center" alt="Carlos-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/angular-original-wordmark.svg" />
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Carlos-DotNet" height="30" width="40"height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  
+    </div>
     <h1 align="center">
     <br>
 Database 
   </h1>  
-  
+  <div style="display: inline_block;" align="center"><br>
   <img align="center" alt="Carlos-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="Carlos-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+      </div>
   
-  
-  </div>
+
   
   <br/>
 
